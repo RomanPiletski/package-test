@@ -1,0 +1,15 @@
+{
+  "name": "romanpiletski/package-test",
+  "autoload": {
+    "psr-4": {
+      "RomanPiletski\\packageTest\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Roman Piletski",
+      "email": "blender-04@yandex.com"
+    }
+  ],
+  "require": {}
+}
