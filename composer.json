@@ -11,5 +11,6 @@
       "email": "blender-04@yandex.com"
     }
   ],
+  "license": "MIT",
   "require": {}
 }
