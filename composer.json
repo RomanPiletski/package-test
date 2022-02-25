@@ -5,6 +5,7 @@
       "RomanPiletski\\packageTest\\": "src/"
     }
   },
+  "minimum-stability": "stable",
   "authors": [
     {
       "name": "Roman Piletski",
